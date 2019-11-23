@@ -1,5 +1,5 @@
 
 # Welcome to LearnCS8 Resume Website
-WilliamDelaCruzBasketball
+ https://williamdelacruz1.github.io/WilliamDelaCruz-Website/
 ![Resume](img/ScreenShot.png)
 
